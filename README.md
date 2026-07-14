@@ -74,8 +74,8 @@ Python can build a wide range of different data visualizations, like line and ba
  
 <h2 align="left">Certifications 📜 🎓 </h2>
 
-- [Data Analysis with Python]() - by 
-
+- [Data Analytics with AI Tools]() - by Codings Blocks 
+ 
  
 
 
