@@ -59,16 +59,6 @@ Python can build a wide range of different data visualizations, like line and ba
 | **30** | **Seaborn: Advanced Diagnostics** - Correlation Heatmaps, Pairplots, and Regression Analysis |
 
 
- 
-### Projects in Python
- 
-|**Sr.No. 🔢**|**Projects 👨‍💻**| **Reference Links :link:**|
-|------|--------------------|---------------------|
-|**Python Project 1**| Spotify Data Analysis using Python | [GitHub Project](https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python) & [Kaggle Notebook](https://www.kaggle.com/code/mrankitgupta/spotify-data-analysis-using-python-project) |
-|**Python Project 2**| Boston Housing Data Analysis using Python | [Project](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python-Project) |
- 
- 
-
 ### Useful YouTube Channels:
 
 [Sheryians AI School](https://youtu.be/-jTD74eEy2I?si=-2Qs3v36oPNmxDH0)
