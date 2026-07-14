@@ -21,17 +21,9 @@ Since it’s relatively easy to learn, Python has been adopted by many non-progr
 
 - Many more Everyday tasks
  
-
-
-
-
-
- 
-## Python Lessons for Data Science <a href="https://github.com/mrankitgupta/PythonLessons" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="25"/> </a>
-
 Python has become a staple in data science, allowing data analysts and other professionals to use the language to conduct complex statistical calculations, create data visualizations, build machine learning algorithms, manipulate and analyze data, and complete other data-related tasks.
 
- Python can build a wide range of different data visualizations, like line and bar graphs, pie charts, histograms, and 3D plots. Python also has a number of libraries that enable coders to write programs for data analysis and machine learning more quickly and efficiently.
+Python can build a wide range of different data visualizations, like line and bar graphs, pie charts, histograms, and 3D plots. Python also has a number of libraries that enable coders to write programs for data analysis and machine learning more quickly and efficiently.
  
 |**Sr.No. 🔢**|**Lessons 📕**| **Reference Links :link:**| **Exercises 👨‍💻**|
 |------|--------------------|---------------------|---------------------|
